@@ -15,6 +15,7 @@ Olá! Seja bem-vindo ao meu repositório no GitHub. Aqui você encontrará uma c
 
 - **LinkedIn**: [Seu Perfil do LinkedIn](link_do_seu_perfil_linkedin)
 
-Sinta-se à vontade para se conectar comigo e acompanhar minhas atualizações!
+
+Sinta-se à vontade para se conectar comigo
 
 Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Divirta-se programando!
