@@ -7,7 +7,7 @@ Olá! Seja bem-vindo ao meu repositório no GitHub. Aqui você encontrará uma c
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
 
-![Programação Engraçada](https://media0.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif)
+![Programação Engraçada]([https://media0.giphy.com/media/l3q2KRkOVYvi8WfU4/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VhODAzZDM2MGY2ZjZmOTc5MDUxZDM5MDdiOGZjMjYxYmNhNzdiMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2oOL4rRKhwMdo2cdqe/giphy.gif))
 
 
 ## Contato
