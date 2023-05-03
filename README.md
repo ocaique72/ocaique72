@@ -1,4 +1,4 @@
-# Bem-vindo ao Meu Repositório
+# Hello my friend!
 
 Olá! Seja bem-vindo ao meu repositório no GitHub. Aqui você encontrará uma coleção de projetos Fique à vontade para explorar e aproveitar!
 
